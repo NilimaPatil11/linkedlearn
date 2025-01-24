@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Arrays;
 
-//welcome
+//welcome to java 
 
 public class OddEleInArrayBeforeEvn {
 
