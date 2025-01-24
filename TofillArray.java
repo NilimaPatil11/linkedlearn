@@ -1,7 +1,7 @@
 package arrays;
 
 import java.util.Scanner;
-
+//welcome
 
 public class TofillArray {
 	public static void fill(int num[])
